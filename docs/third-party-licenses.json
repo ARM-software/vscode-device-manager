@@ -1,0 +1,37 @@
+[
+    {
+        "name": "libusb",
+        "version": "1.0.23",
+        "spdx": "LGPL-2.1-or-later",
+        "url": "https://github.com/libusb/libusb",
+        "license": "https://github.com/libusb/libusb/blob/master/COPYING"
+    },
+    {
+        "name": "node-fetch",
+        "version": "2.6.7",
+        "spdx": "MIT",
+        "url": "https://github.com/node-fetch/node-fetch",
+        "license": "https://github.com/node-fetch/node-fetch/blob/master/LICENSE.md"
+    },
+    {
+        "name": "serialport",
+        "version": "10.1.0",
+        "spdx": "MIT",
+        "url": "https://github.com/serialport/node-serialport",
+        "license": "https://github.com/serialport/node-serialport/blob/master/LICENSE"
+    },
+    {
+        "name": "usb",
+        "version": "2.1.0",
+        "spdx": "MIT",
+        "url": "https://github.com/node-usb/node-usb",
+        "license": "https://github.com/node-usb/node-usb/blob/master/LICENSE"
+    },
+    {
+        "name": "webview-ui-toolkit",
+        "version": "0.9.1",
+        "spdx": "MIT",
+        "url": "https://github.com/microsoft/vscode-webview-ui-toolkit",
+        "license": "https://github.com/microsoft/vscode-webview-ui-toolkit/blob/main/LICENSE"
+    }
+]

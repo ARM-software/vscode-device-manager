@@ -4,8 +4,6 @@
 
 This extension allows you to manage device connections for Arm Cortex-M based microcontrollers, development boards and debug probes.
 
-**This repository is used solely for tracking feedback. It contains no source code for the extension itself.**
-
 To submit feedback, please [create an issue](https://github.com/ARM-software/vscode-device-manager/issues/new/choose).
 
 ## Install
