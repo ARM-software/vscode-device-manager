@@ -1,5 +1,12 @@
 [
     {
+        "name": "debug",
+        "version": "2.6.9",
+        "spdx": "MIT",
+        "url": "https://github.com/debug-js/debug",
+        "license": "https://github.com/debug-js/debug/blob/master/LICENSE"
+    },
+    {
         "name": "libusb",
         "version": "1.0.23",
         "spdx": "LGPL-2.1-or-later",
@@ -7,11 +14,25 @@
         "license": "https://github.com/libusb/libusb/blob/master/COPYING"
     },
     {
+        "name": "ms",
+        "version": "2.1.3",
+        "spdx": "MIT",
+        "url": "https://github.com/vercel/ms",
+        "license": "https://github.com/vercel/ms/blob/master/license.md"
+    },
+    {
         "name": "node-fetch",
         "version": "2.6.7",
         "spdx": "MIT",
         "url": "https://github.com/node-fetch/node-fetch",
         "license": "https://github.com/node-fetch/node-fetch/blob/master/LICENSE.md"
+    },
+    {
+        "name": "node-gyp-build",
+        "version": "4.3.0",
+        "spdx": "MIT",
+        "url": "https://github.com/prebuild/node-gyp-build",
+        "license": "https://github.com/prebuild/node-gyp-build/blob/master/LICENSE"
     },
     {
         "name": "serialport",
