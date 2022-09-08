@@ -4,34 +4,50 @@
 
 This extension allows you to manage device connections for Arm Cortex-M based microcontrollers, development boards and debug probes.
 
+## Useful resources
+
+The **Arm Device Manager** extension works in combination with the **Arm CMSIS csolution** (Identifier: `arm.cmsis-csolution`) and **Arm Embedded Debugger** (Identifier: `arm.embedded-debug`) extensions to flash csolution projects to a device and do debugging.
+
+## Submit feedback
+
 To submit feedback, please [create an issue](https://github.com/ARM-software/vscode-device-manager/issues/new/choose).
-
-## Install
-
-Procedure:
-
-1. In Visual Studio Code, go to the **Extensions** view.
-
-1. Search for **Arm Device Manager**.
-
-1. Click the **Install** button for the extension.
-
-    Visual Studio Code installs the extension. It is now available in the **Extensions** view.
 
 ## Add devices
 
 Procedure:
 
+1. Click the **Device Manager** icon ![Device Manager icon](./docs/images/device-manager-icon.png) in the Activity Bar to open the extension.
+
 1. Connect your device to your computer over USB.
 
-1. In Visual Studio Code, click the **Device Manager** icon in the Activity Bar on the far left-hand side to open the extension.
+    The device is detected and a popup message displays.
 
-1. Click the **Add Device** button and select your desired device in the drop-down list that opens at the top of the window.
+1. Click **OK** in the pop up message to use the device.
 
-    Your device is detected and added to the list of available devices.
-
-1. Hover over the device and click the **Use Device** icon.<!--As discussed with the UX team, use sentence case in tooltips-->
+    Alternatively, you can click the **Add Device** button ![Add Device button](./docs/images/add-device-button.png) and select your device in the drop-down list that displays at the top of the window.
 
     Your device is now ready to be used for flashing and debugging.
 
-If you need to add more devices, click the **Add Device** icon.<!--Use sentence case in tooltips-->
+If you need to add more devices, click the **Add Device** icon ![Add Device icon](./docs/images/add-device-icon.png) in the top right corner.
+
+## Rename a device
+
+Procedure:
+
+1. Hover over the device you want to rename and click the **Rename Device** icon ![Rename Device icon](./docs/images/rename-device-icon.png).
+
+1. Enter a name for the device and press **Enter**.
+
+## Open a serial monitor
+
+Procedure:
+
+1. Hover over the device for which you want to open a serial monitor and click the **Open Serial** icon ![Open Serial icon](./docs/images/open-serial-icon.png).
+
+    A drop-down list displays at the top of the window where you can select a baud rate (the data rate in bits per second between your computer and your device). To view the output of a device correctly, you must select an appropriate baud rate. The baud rate you select must be the same as the baud rate of your active project.
+
+1. Select a baud rate.
+
+    A **Terminal** tab opens with the baud rate selected.
+
+    <!--Should the Terminal options be documented (DAPLink CMSIS-DAP menu, New Terminal menu,...)? -->

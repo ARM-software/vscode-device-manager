@@ -49,10 +49,10 @@
         "license": "https://github.com/node-usb/node-usb/blob/master/LICENSE"
     },
     {
-        "name": "webview-ui-toolkit",
-        "version": "0.9.1",
+        "name": "vscode-extension-telemetry",
+        "version": "0.6.2",
         "spdx": "MIT",
-        "url": "https://github.com/microsoft/vscode-webview-ui-toolkit",
-        "license": "https://github.com/microsoft/vscode-webview-ui-toolkit/blob/main/LICENSE"
+        "url": "https://github.com/microsoft/vscode-extension-telemetry",
+        "license": "https://github.com/microsoft/vscode-extension-telemetry/blob/main/LICENSE"
     }
 ]
