@@ -10,7 +10,7 @@ The **Arm Device Manager** extension can work in combination with the **Arm CMSI
 
 ## Submit feedback
 
-To submit feedback, please [create an issue](https://github.com/ARM-software/vscode-device-manager/issues/new/choose).
+To submit feedback, please [create an issue](https://github.com/Arm-Software/vscode-device-manager/issues/new/choose).
 
 ## Add devices
 
