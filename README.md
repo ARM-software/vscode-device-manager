@@ -1,9 +1,5 @@
 # Arm Device Manager
 
-[![Actions](https://github.com/arm-debug/vscode-device-manager/workflows/ci/badge.svg)](https://github.com/Arm-Debug/vscode-device-manager/actions)
-<a href="https://codeclimate.com/repos/6348186d1385e7503c000110/maintainability"><img src="https://api.codeclimate.com/v1/badges/15678284507e4d03cad8/maintainability" /></a>
-<a href="https://codeclimate.com/repos/6348186d1385e7503c000110/test_coverage"><img src="https://api.codeclimate.com/v1/badges/15678284507e4d03cad8/test_coverage" /></a>
-
 ## Overview
 
 This extension allows you to manage device connections for Arm Cortex-M based microcontrollers, development boards and debug probes.
