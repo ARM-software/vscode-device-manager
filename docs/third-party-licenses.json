@@ -43,7 +43,7 @@
     },
     {
         "name": "usb",
-        "version": "2.1.0",
+        "version": "2.7.0",
         "spdx": "MIT",
         "url": "https://github.com/node-usb/node-usb",
         "license": "https://github.com/node-usb/node-usb/blob/master/LICENSE"
