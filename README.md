@@ -6,7 +6,7 @@ This extension allows you to manage device connections for Arm Cortex-M based mi
 
 ## Useful resources
 
-The **Arm Device Manager** extension can work in combination with the **Arm CMSIS csolution** (Identifier: `arm.cmsis-csolution`) and **Arm Embedded Debugger** (Identifier: `arm.embedded-debug`) extensions to flash csolution projects to a device and undertake debugging.
+The **Arm Device Manager** extension can work in combination with the **Arm CMSIS csolution** (Identifier: `arm.cmsis-csolution`) and **Arm Embedded Debugger** (Identifier: `arm.embedded-debug`) extensions to run csolution projects on a device and undertake debugging.
 
 ## Submit feedback
 
@@ -26,7 +26,7 @@ Procedure:
 
     Alternatively, you can click the **Add Device** button ![Add Device button](./docs/images/add-device-button.png) and select your device in the drop-down list that displays at the top of the window.
 
-    Your device is now ready to be used for flashing and debugging.
+    Your device is now ready to be used to run and debug a project.
 
 If you need to add more devices, click the **Add Device** icon ![Add Device icon](./docs/images/add-device-icon.png) in the top right corner.
 
