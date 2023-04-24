@@ -22,7 +22,7 @@
     },
     {
         "name": "node-fetch",
-        "version": "2.6.7",
+        "version": "2.6.9",
         "spdx": "MIT",
         "url": "https://github.com/node-fetch/node-fetch",
         "license": "https://github.com/node-fetch/node-fetch/blob/master/LICENSE.md"
