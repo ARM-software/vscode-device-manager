@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.9.2
+- Fixed detection of older ST devices
+
+## 1.9.1
+- Fixed detection for NXP devices
+
 ## 1.9.0
 - List packs when editing a device
 - Prompt user to configure a device when required

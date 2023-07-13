@@ -2,52 +2,30 @@
 
 ## Overview
 
-This extension allows you to manage device connections for Arm Cortex-M based microcontrollers, development boards and debug probes.
+The complete [documentation](https://developer.arm.com/documentation/108029/latest/Extension-packs-and-extensions) for **Arm Device Manager** and the other Keil Studio extensions is available on Arm Developer.
 
-## Useful resources
+The **Arm Device Manager** extension allows you to manage hardware connections for Arm Cortex-M based microcontrollers, development boards and debug probes. It can be installed individually or together with other extensions contained in the packs available for Visual Studio Code Desktop and Visual Studio Code for the Web. 
 
-The **Arm Device Manager** extension can work in combination with the **Arm CMSIS csolution** (Identifier: `arm.cmsis-csolution`) and **Arm Embedded Debugger** (Identifier: `arm.embedded-debug`) extensions to run csolution projects on a device and undertake debugging.
+We recommend installing the **Keil Studio Pack** for Visual Studio Code Desktop to quickly set up your environment and start working with an example.
+
+The **Arm Device Manager** extension can work in combination with the **Arm CMSIS csolution** (Identifier: `arm.cmsis-csolution`) and **Arm Embedded Debugger** (Identifier: `arm.embedded-debug`) extensions to run and debug csolution projects.
+
+## Intended use cases for the extensions
+
+- **Embedded and IoT software development using CMSIS-Packs and csolution projects**: The "Common Microcontroller Software Interface Standard" (CMSIS) provides driver, peripheral and middleware support for thousands of MCUs and hundreds of development boards. Using the csolution project format, you can incorporate any CMSIS-Pack based device, board, and software component into your application. For more information about supported hardware for CMSIS projects, go to the [Boards](https://www.keil.arm.com/boards/) and [Devices](https://www.keil.arm.com/devices/) pages on keil.arm.com. For information about CMSIS-Packs, go to [open-cmsis-pack.org](https://www.open-cmsis-pack.org/index.html).
+
+- **Enhancement of a pre-existing Visual Studio Code embedded software development workflow**: USB device management and embedded debug can be adapted to other project formats (for example CMake) and toolchains without additional overhead. This use case requires familiarity with Visual Studio Code to configure tasks. See the individual extensions for more details.
+
+## Install the extension
+
+1. In Visual Studio Code, go to the **Extensions** view.
+
+1. Search for **Arm Device Manager**.
+
+1. Click the **Install** button for the extension.
+
+    Visual Studio Code installs the extension. It is now available in the **Extensions** view.
 
 ## Submit feedback
 
-To submit feedback, please [create an issue](https://github.com/Arm-Software/vscode-device-manager/issues/new/choose).
-
-## Add devices
-
-Procedure:
-
-1. Click the **Device Manager** icon ![Device Manager icon](./docs/images/device-manager-icon.png) in the Activity Bar to open the extension.
-
-1. Connect your device to your computer over USB.
-
-    The device is detected and a popup message displays.
-
-1. Click **OK** in the pop up message to use the device.
-
-    Alternatively, you can click the **Add Device** button ![Add Device button](./docs/images/add-device-button.png) and select your device in the drop-down list that displays at the top of the window.
-
-    Your device is now ready to be used to run and debug a project.
-
-If you need to add more devices, click the **Add Device** icon ![Add Device icon](./docs/images/add-device-icon.png) in the top right corner.
-
-## Rename a device
-
-Procedure:
-
-1. Hover over the device you want to rename and click the **Rename Device** icon ![Rename Device icon](./docs/images/rename-device-icon.png).
-
-1. Enter a name for the device and press **Enter**.
-
-## Open a serial monitor
-
-Procedure:
-
-1. Hover over the device for which you want to open a serial monitor and click the **Open Serial** icon ![Open Serial icon](./docs/images/open-serial-icon.png).
-
-    A drop-down list displays at the top of the window where you can select a baud rate (the data rate in bits per second between your computer and your device). To view the output of a device correctly, you must select an appropriate baud rate. The baud rate you select must be the same as the baud rate of your active project.
-
-1. Select a baud rate.
-
-    A **Terminal** tab opens with the baud rate selected.
-
-    <!--Should the Terminal options be documented (DAPLink CMSIS-DAP menu, New Terminal menu,...)? -->
+To submit feedback, please [open a bug report or a feature request](https://github.com/Arm-Software/vscode-device-manager/issues/new/choose).
