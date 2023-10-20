@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.9.7
+- Fixed issue with vendor names containing spaces
+- Switched to use cmsis.io for pack assets
+- Documentation updates
+
 ## 1.9.2
 - Fixed detection of older ST devices
 
