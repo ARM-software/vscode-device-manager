@@ -2,13 +2,13 @@
 
 ## Overview
 
-The complete [documentation](https://developer.arm.com/documentation/108029/latest/Extension-pack-and-extensions) for **Arm Device Manager** and the other Keil Studio extensions is available on Arm Developer.
+The complete [documentation](https://developer.arm.com/documentation/108029/latest/Extension-pack-and-extensions) for Arm® Device Manager and the other Keil® Studio extensions is available on Arm Developer.
 
-The **Arm Device Manager** extension allows you to manage hardware connections for Arm Cortex-M based microcontrollers, development boards and debug probes. It can be installed individually or together with other extensions contained in the packs available for Visual Studio Code Desktop and Visual Studio Code for the Web. 
+The Device Manager extension allows you to manage hardware connections for Arm Cortex®-M based microcontrollers, development boards and debug probes. It can be installed individually or as part of the Arm Keil Studio Pack extension in Visual Studio Code Desktop.
 
-We recommend installing the **Keil Studio Pack** for Visual Studio Code Desktop to quickly set up your environment and start working with an example.
+We recommend installing the Keil Studio Pack for Visual Studio Code Desktop to quickly set up your environment and start working with an example.
 
-The **Arm Device Manager** extension can work in combination with the **Arm CMSIS csolution** (Identifier: `arm.cmsis-csolution`) and **Arm Embedded Debugger** (Identifier: `arm.embedded-debug`) extensions to run and debug csolution projects.
+The Device Manager extension can work in combination with the Arm CMSIS csolution (Identifier: `arm.cmsis-csolution`) and Arm Embedded Debugger (Identifier: `arm.embedded-debug`) extensions to run and debug csolution projects.
 
 ## Intended use cases for the extensions
 

@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.10.0
+- Detects ULINKpro and ULINKpro D devices
+- Shows Output channel only when it has content
+- Add command `device-manager.getBuildTargetName` to get connected target name
+
 ## 1.9.8
 - Fixed issue where device list would not load on first invocation
 
