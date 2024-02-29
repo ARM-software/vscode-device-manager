@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.0
+- Updated dependencies
+
 ## 1.10.0
 - Detects ULINKpro and ULINKpro D devices
 - Shows Output channel only when it has content

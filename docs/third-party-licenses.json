@@ -43,14 +43,14 @@
     },
     {
         "name": "serialport",
-        "version": "10.1.0",
+        "version": "12.0.0",
         "spdx": "MIT",
         "url": "https://github.com/serialport/node-serialport",
         "license": "https://github.com/serialport/node-serialport/blob/master/LICENSE"
     },
     {
         "name": "usb",
-        "version": "2.8.0",
+        "version": "2.11.0",
         "spdx": "MIT",
         "url": "https://github.com/node-usb/node-usb",
         "license": "https://github.com/node-usb/node-usb/blob/master/LICENSE"
@@ -64,7 +64,7 @@
     },
     {
         "name": "xml2js",
-        "version": "0.4.23",
+        "version": "0.6.2",
         "spdx": "MIT",
         "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
         "license": "https://github.com/Leonidas-from-XIV/node-xml2js/blob/master/LICENSE"
