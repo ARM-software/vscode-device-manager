@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.12.1
+- Help user configure device when unable to detect it's type
+- Ship native binaries to support running on Windows on Arm
+- Fix custom configuration for external probes
+
 ## 1.11.0
 - Updated dependencies
 
