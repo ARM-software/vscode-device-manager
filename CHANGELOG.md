@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.13.0
+- Updated underlying USB package and switched to libusb v1.0.27
+- Fixed handling of pack path on Windows
+
 ## 1.12.1
 - Help user configure device when unable to detect it's type
 - Ship native binaries to support running on Windows on Arm
