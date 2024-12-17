@@ -1,5 +1,11 @@
 # Change Log
 
+## [Unreleased]
+
+
+## 1.13.1
+- Added `device-manager.getDeviceType`
+
 ## 1.13.0
 - Updated underlying USB package and switched to libusb v1.0.27
 - Fixed handling of pack path on Windows
