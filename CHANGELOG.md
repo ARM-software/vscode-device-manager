@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## 1.13.2
+
+- Switch to use serial monitor from https://github.com/eclipse-cdt-cloud/vscode-serial-monitor
+- Fixed CMSIS pack listing when no local CMSIS pack cache is present
+- Split device editing UI in to separate 'rename' and 'configure pack' actions
+- Added better message when a device isn't selected
 
 ## 1.13.1
 - Added `device-manager.getDeviceType`

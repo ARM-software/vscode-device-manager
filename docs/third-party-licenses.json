@@ -42,13 +42,6 @@
         "license": "https://github.com/prebuild/node-gyp-build/blob/master/LICENSE"
     },
     {
-        "name": "serialport",
-        "version": "12.0.0",
-        "spdx": "MIT",
-        "url": "https://github.com/serialport/node-serialport",
-        "license": "https://github.com/serialport/node-serialport/blob/master/LICENSE"
-    },
-    {
         "name": "usb",
         "version": "2.11.0",
         "spdx": "MIT",
