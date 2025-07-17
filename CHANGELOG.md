@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## 1.13.3
+
 ## 1.13.2
 
 - Switch to use serial monitor from https://github.com/eclipse-cdt-cloud/vscode-serial-monitor
