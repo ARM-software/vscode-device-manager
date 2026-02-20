@@ -2,7 +2,19 @@
 
 ## [Unreleased]
 
+## 1.16.0
+
+- Switched to using npm
+- Published types on npmjs.org
+
+## 1.14.0
+
+- Fixed broken help link for devices
+- Updated dependant packages including Serial Monitor and USB
+
 ## 1.13.3
+
+- Updated README documentation
 
 ## 1.13.2
 
