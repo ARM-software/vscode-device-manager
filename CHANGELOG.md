@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## 1.18.0
+
+- Fixed device refresh on Windows
+
 ## 1.16.0
 
 - Switched to using npm
