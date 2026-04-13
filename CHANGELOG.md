@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## 1.20.0
+
+- Fixed extension stalling on Linux
+
 ## 1.18.0
 
 - Fixed device refresh on Windows

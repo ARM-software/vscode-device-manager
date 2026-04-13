@@ -1,12 +1,5 @@
 [
     {
-        "name": "debug",
-        "version": "2.6.9",
-        "spdx": "MIT",
-        "url": "https://github.com/debug-js/debug",
-        "license": "https://github.com/debug-js/debug/blob/master/LICENSE"
-    },
-    {
         "name": "jszip",
         "version": "3.10.1",
         "spdx": "MIT",
@@ -15,45 +8,24 @@
     },
     {
         "name": "libusb",
-        "version": "1.0.23",
+        "version": "1.0.29",
         "spdx": "LGPL-2.1-or-later",
         "url": "https://github.com/libusb/libusb",
         "license": "https://github.com/libusb/libusb/blob/master/COPYING"
     },
     {
-        "name": "ms",
-        "version": "2.1.3",
-        "spdx": "MIT",
-        "url": "https://github.com/vercel/ms",
-        "license": "https://github.com/vercel/ms/blob/master/license.md"
-    },
-    {
-        "name": "node-fetch",
-        "version": "2.6.9",
-        "spdx": "MIT",
-        "url": "https://github.com/node-fetch/node-fetch",
-        "license": "https://github.com/node-fetch/node-fetch/blob/master/LICENSE.md"
-    },
-    {
         "name": "node-gyp-build",
-        "version": "4.3.0",
+        "version": "4.8.4",
         "spdx": "MIT",
         "url": "https://github.com/prebuild/node-gyp-build",
         "license": "https://github.com/prebuild/node-gyp-build/blob/master/LICENSE"
     },
     {
         "name": "usb",
-        "version": "2.11.0",
+        "version": "2.17.0",
         "spdx": "MIT",
         "url": "https://github.com/node-usb/node-usb",
         "license": "https://github.com/node-usb/node-usb/blob/master/LICENSE"
-    },
-    {
-        "name": "vscode-extension-telemetry",
-        "version": "0.6.2",
-        "spdx": "MIT",
-        "url": "https://github.com/microsoft/vscode-extension-telemetry",
-        "license": "https://github.com/microsoft/vscode-extension-telemetry/blob/main/LICENSE"
     },
     {
         "name": "xml2js",
