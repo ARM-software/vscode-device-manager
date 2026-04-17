@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## 1.22.0
+
 ## 1.20.0
 
 - Fixed extension stalling on Linux
